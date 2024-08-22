@@ -1,0 +1,55 @@
+body {
+  background-color: red;
+  color: orange;
+  font-family: 'arial', sans-serif;
+}
+
+
+a:link {
+  background-color: white;
+  color: yellow;
+  text-decoration: underline;
+}
+
+
+a:hover {
+  background-color: red;
+  color: orange;
+  text-decoration: underline;
+}
+
+
+a:visited {
+  Background-color: green;
+  color: blue;
+  text-decoration: underline;
+}
+
+
+a:active {
+  background-color: purple;
+  color: gray;
+  text-decoration: none;
+}
+
+
+.topnav {
+  background-color: black;
+  overflow: hidden;
+  font-family: 'new times roman', sans-serif;
+}
+
+
+.topnav a:link {
+  float: left;
+  background-color: white;
+  color: tan;
+  text-align: center;
+  padding: 15px 17px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+
+.topnav a:visited {
+  
